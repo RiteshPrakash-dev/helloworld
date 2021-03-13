@@ -1,0 +1,13 @@
+.hello{
+    background-color: aqua;
+    text-align: center;
+
+}
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+}
+body>ul>li{
+    background-color: chartreuse;
+}
